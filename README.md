@@ -20,10 +20,10 @@
 # 💻 Build Stuff for:
 
 
-  ![Mobile App Development](https://img.shields.io/badge/Mobile%20App%20Development-6C464F?style=for-the-badge&logoWidth=10)
-  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-337CA0?style=for-the-badge&logoWidth=10)
-  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4D5382?style=for-the-badge&logoWidth=10)
-  ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-D16014?style=for-the-badge&logoWidth=10)
+  ![Mobile App Development](https://img.shields.io/badge/Mobile%20App%20Development-6C464F?style=for-the-badge&logoWidth=10)  &nbsp;
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-337CA0?style=for-the-badge&logoWidth=10) &nbsp;
+  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4D5382?style=for-the-badge&logoWidth=10)  &nbsp;
+  ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-D16014?style=for-the-badge&logoWidth=10)  
 
 
 
@@ -31,26 +31,27 @@
 
 <p style="font-size: 40px; font-weight: bold;">Languages:</p>
 
-![C](https://img.shields.io/badge/C-3D5A80?style=for-the-badge&logo=C&logoColor=white&logoWidth=10)&nbsp; ![C++](https://img.shields.io/badge/C++-820263?style=for-the-badge&logo=C++&logoColor=white&logoWidth=10) &nbsp;
-![Python](https://img.shields.io/badge/Python-939F5C?style=for-the-badge&logo=Python&logoColor=white&logoWidth=10) &nbsp; ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white&logoWidth=10)
+![C](https://img.shields.io/badge/C-3D5A80?style=for-the-badge&logo=C&logoColor=white&logoWidth=10) &nbsp; 
+![C++](https://img.shields.io/badge/C++-820263?style=for-the-badge&logo=C++&logoColor=white&logoWidth=10) &nbsp;
+![Python](https://img.shields.io/badge/Python-939F5C?style=for-the-badge&logo=Python&logoColor=white&logoWidth=10) &nbsp; 
+![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white&logoWidth=10)
 
 
 <p style="font-size: 40px; font-weight: bold;">ML Libraries:</p>
 
 
-![Keras](https://img.shields.io/badge/Keras-EC4140?style=for-the-badge&logo=keras&logoColor=white&logoWidth=10)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=10)]
+![Keras](https://img.shields.io/badge/Keras-EC4140?style=for-the-badge&logo=keras&logoColor=white&logoWidth=10)  &nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=10) &nbsp;
 ![OpenCV](https://img.shields.io/badge/OpenCV-%230D0D0D?style=for-the-badge&logo=opencv&logoColor=white&logoWidth=10)
 
 
 <p style="font-size: 40px; font-weight: bold;">Database:</p>
 
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white&logoWidth=10)
+![Firebase](https://img.shields.io/badge/Firebase-%23333?style=for-the-badge&logo=firebase&logoColor=white&logoWidth=10)
 
+<p style="font-size: 40px; font-weight: bold;">Framework:</p>
 
-
-
-
+![Flutter](https://img.shields.io/badge/Flutter-%234D8CFF?style=for-the-badge&logo=flutter&logoColor=white&logoWidth=10)
 
 
 &nbsp;
