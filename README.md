@@ -57,25 +57,7 @@
 &nbsp;
 
 
-# 📊 GitHub Stats:
-<div align="center" id="stats"> 
- 
-</div>
+ # 🌐 Let's connect!
 
-
-
-## 🌐 Socials:
-<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruvkjain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvkjain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhruvkjain) 
-
----
-<!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dhruvkjain&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
-
-> ### ✍️ Random Dev Quote
-
-
-> <!--### 😂 Random Dev Meme
-> <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>-->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
+ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palakbera2281@gmail.com)
 
