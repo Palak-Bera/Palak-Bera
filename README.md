@@ -12,8 +12,11 @@
  
 
 🚀 Passionate about Machine Learning and Deep Learning
+
 🎓 Master's Student at DAIICT Specializing in Machine Learning 
+
 🌱 Startup Enthusiast
+
 💡 Innovation-Driven
 
 &nbsp;
