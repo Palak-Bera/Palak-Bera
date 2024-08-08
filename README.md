@@ -32,7 +32,8 @@
 <p style="font-size: 40px; font-weight: bold;">Languages:</p>
 
 ![C](https://img.shields.io/badge/C-3D5A80?style=for-the-badge&logo=C&logoColor=white&logoWidth=10)&nbsp; ![C++](https://img.shields.io/badge/C++-820263?style=for-the-badge&logo=C++&logoColor=white&logoWidth=10) &nbsp;
-![Python](https://img.shields.io/badge/Python-939F5C?style=for-the-badge&logo=Python&logoColor=white&logoWidth=10)
+![Python](https://img.shields.io/badge/Python-939F5C?style=for-the-badge&logo=Python&logoColor=white&logoWidth=10) &nbsp; ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white&logoWidth=10)
+
 
 
 
