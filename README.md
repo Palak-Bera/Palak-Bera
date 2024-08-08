@@ -13,10 +13,8 @@
 <p style="font-size: 26px; font-weight: bold;">🌱 Startup Enthusiast</p>
 <p style="font-size: 24px; font-weight: bold;">💡 Innovation-Driven</p>
 
-
-&nbsp;
     
-## 💻 Build Stuff for:
+# 💻 Build Stuff for:
 
 
   ![Mobile App Development](https://img.shields.io/badge/Mobile%20App%20Development-6C464F?style=for-the-badge&logoWidth=10)
@@ -24,17 +22,9 @@
   ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4D5382?style=for-the-badge&logoWidth=10)
   ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-D16014?style=for-the-badge&logoWidth=10)
 
-&nbsp;
-&nbsp;
-
-## 🔧 Tech I Frequently Use:
-
----
-
-&nbsp;
-  
 
 
+# 🔧 Tech I Frequently Use:
 
 ##  Languages:
 ![C](https://img.shields.io/badge/C-3D5A80?style=for-the-badge&logo=C&logoColor=white&logoWidth=10)&nbsp; ![C++](https://img.shields.io/badge/C++-820263?style=for-the-badge&logo=C++&logoColor=white&logoWidth=10) &nbsp;
