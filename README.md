@@ -10,9 +10,9 @@
 
 # 💫 About Me:
  
-<p style="font-size: 24px; font-weight: bold;">🚀 Passionate about <strong>Machine Learning</strong> and <strong>Deep Learning</strong></p>
-<p style="font-size: 24px; font-weight: bold;">🎓 Master's Student at <strong>DAIICT</strong> Specializing in Machine Learning</p>
-<p style="font-size: 24px; font-weight: bold;">🌱 Startup Enthusiast</p>
+<p style="font-size: 30px; font-weight: bold;">🚀 Passionate about <strong>Machine Learning</strong> and <strong>Deep Learning</strong></p>
+<p style="font-size: 28px; font-weight: bold;">🎓 Master's Student at <strong>DAIICT</strong> Specializing in Machine Learning</p>
+<p style="font-size: 26px; font-weight: bold;">🌱 Startup Enthusiast</p>
 <p style="font-size: 24px; font-weight: bold;">💡 Innovation-Driven</p>
 
 
