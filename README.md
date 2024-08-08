@@ -35,15 +35,18 @@
 ![Python](https://img.shields.io/badge/Python-939F5C?style=for-the-badge&logo=Python&logoColor=white&logoWidth=10) &nbsp; ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white&logoWidth=10)
 
 
+<p style="font-size: 40px; font-weight: bold;">ML Libraries:</p>
 
-
-## ML Libraries:
 
 ![Keras](https://img.shields.io/badge/Keras-EC4140?style=for-the-badge&logo=keras&logoColor=white&logoWidth=10)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=10)]
+![OpenCV](https://img.shields.io/badge/OpenCV-%230D0D0D?style=for-the-badge&logo=opencv&logoColor=white&logoWidth=10)
 
 
-## Databases:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p style="font-size: 40px; font-weight: bold;">Database:</p>
+
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white&logoWidth=10)
+
 
 
 
