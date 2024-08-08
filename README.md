@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FFF0F&center=true&width=800&fontSize=100&lines=Hi+%2C+I+am+Palak+Bera.;I+love+coffee+more+than+tea.;ML%2C+DL%2C+Flutter+--+my+tech+BFFs!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&duration=2500&color=1FFF0F&center=true&width=500&fontSize=40&lines=Hi+%2C+I+am+Palak+Bera.;I+love+coffee+more+than+tea.;ML%2C+DL%2C+Flutter+--+my+tech+BFFs!)](https://git.io/typing-svg)
 
 
 </div>
