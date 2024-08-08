@@ -11,7 +11,7 @@
 # 💫 About Me:
  
 ### 🚀 Passionate about **Machine Learning** and **Deep Learning** 
-###🎓 Master's Student at **DAIICT** Specializing in Machine Learning <br>
+### 🎓 Master's Student at **DAIICT** Specializing in Machine Learning <br>
 🌱 Startup Enthusiast <br>
 💡 Innovation-Driven <br>
 
