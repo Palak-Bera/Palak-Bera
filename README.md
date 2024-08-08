@@ -6,8 +6,6 @@
 
 </div>
 
-<div id="header" >
-
 # 💫 About Me:
  
 <p style="font-size: 60px; font-weight: bold;">🚀 Passionate about <strong>Machine Learning</strong> and <strong>Deep Learning</strong></p>
