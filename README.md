@@ -13,6 +13,8 @@
 <p style="font-size: 26px; font-weight: bold;">🌱 Startup Enthusiast</p>
 <p style="font-size: 24px; font-weight: bold;">💡 Innovation-Driven</p>
 
+![](https://komarev.com/ghpvc/?username=Palak-Bera&color=red&style=flat)
+
 &nbsp;
     
 # 💻 Build Stuff for:
