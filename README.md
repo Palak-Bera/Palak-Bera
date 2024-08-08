@@ -10,23 +10,16 @@
 
 ## 💫 About Me:
  
+🚀 Passionate about **Machine Learning** and **Deep Learning** <br>
+🎓 Master's Student at **DAIICT** Specializing in Machine Learning <br>
+🌱 Startup Enthusiast <br>
+💡 Innovation-Driven <br>
 
-🚀 Passionate about Machine Learning and Deep Learning
-
-🎓 Master's Student at DAIICT Specializing in Machine Learning 
-
-🌱 Startup Enthusiast
-
-💡 Innovation-Driven
-
-&nbsp;
 &nbsp;
     
 ## 💻 Build Stuff for:
 
----
 
-  
   ![Mobile App Development](https://img.shields.io/badge/Mobile%20App%20Development-6C464F?style=for-the-badge&logoWidth=10)
   ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-337CA0?style=for-the-badge&logoWidth=10)
   ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4D5382?style=for-the-badge&logoWidth=10)
