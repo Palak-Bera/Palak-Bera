@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <div align="center">
 
@@ -12,8 +11,6 @@
 ## 💫 About Me:
  ---
 
- &nbsp;
-
   ### 🚀 Passionate about Machine Learning and Deep Learning
   ### 🎓 Master's Student at DAIICT Specializing in Machine Learning 
   ### 🌱 Startup Enthusiast
@@ -26,7 +23,6 @@
 
 ---
 
-&nbsp;
   
   ![Mobile App Development](https://img.shields.io/badge/Mobile%20App%20Development-6C464F?style=for-the-badge&logoWidth=10)
   ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-337CA0?style=for-the-badge&logoWidth=10)
@@ -75,7 +71,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruvkjain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvkjain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhruvkjain) 
+<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruvkjain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvkjain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhruvkjain) 
 
 ---
 <!-- ### 🔝 Top Contributed Repo
@@ -87,5 +83,5 @@
 > <!--### 😂 Random Dev Meme
 > <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>-->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
 
