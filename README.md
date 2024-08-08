@@ -59,5 +59,5 @@
 
  # 🌐 Let's connect!
 
- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palakbera2281@gmail.com)
+[📧 Email](mailto:palakbera2281@gmail.com)
 
