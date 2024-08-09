@@ -7,7 +7,9 @@
 </div>
 
 # 💫 About Me:
- 
+
+<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" height="150" width="150"/>
+
 <p style="font-size: 60px; font-weight: bold;">🚀 Passionate about <strong>Machine Learning</strong> and <strong>Deep Learning</strong></p>
 <p style="font-size: 28px; font-weight: bold;">🎓 Master's Student at <strong>DAIICT</strong> Specializing in Machine Learning</p>
 <p style="font-size: 26px; font-weight: bold;">🌱 Startup Enthusiast</p>
