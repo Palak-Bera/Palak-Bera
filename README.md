@@ -59,5 +59,5 @@
 
  # 🌐 Let's connect!
 
-[📧 Email](mailto:palakbera2281@gmail.com)
+[📧 Email: palakbera2281@gmail.com](mailto:palakbera2281@gmail.com)
 
