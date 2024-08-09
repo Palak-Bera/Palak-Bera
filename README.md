@@ -39,16 +39,10 @@
 ![C++](https://img.shields.io/badge/C++-820263?style=for-the-badge&logo=C++&logoColor=white&logoWidth=10) &nbsp;
 ![Python](https://img.shields.io/badge/Python-939F5C?style=for-the-badge&logo=Python&logoColor=white&logoWidth=10) &nbsp; 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white&logoWidth=10)  &nbsp; 
-
 ![Keras](https://img.shields.io/badge/Keras-EC4140?style=for-the-badge&logo=keras&logoColor=white&logoWidth=10)  &nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=10) &nbsp;
 ![OpenCV](https://img.shields.io/badge/OpenCV-%230D0D0D?style=for-the-badge&logo=opencv&logoColor=white&logoWidth=10) &nbsp;
-
-
-
 ![Firebase](https://img.shields.io/badge/Firebase-%23333?style=for-the-badge&logo=firebase&logoColor=white&logoWidth=10) &nbsp;
-
-
 ![Flutter](https://img.shields.io/badge/Flutter-%234D8CFF?style=for-the-badge&logo=flutter&logoColor=white&logoWidth=10) &nbsp;
 
 
