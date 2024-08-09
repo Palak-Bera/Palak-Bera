@@ -57,4 +57,6 @@
 
 🙆 Portfolio : [Palak-Bera](https://palakbera.netlify.app/)
 
+📄 Resume : [palak-Bera](https://drive.google.com/file/d/1-pgqcp0YeyrbLN4tAqfE4OY_FQnYZ2T4/view?usp=sharing)
+
 
