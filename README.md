@@ -37,7 +37,6 @@
 ![Python](https://img.shields.io/badge/Python-939F5C?style=for-the-badge&logo=Python&logoColor=white&logoWidth=10) &nbsp; 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white&logoWidth=10)
 
-&nbsp;
 
 <p style="font-size: 40px; font-weight: bold;">ML Libraries:</p>
 
