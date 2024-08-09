@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-<img align="right" src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" height="150" width="150" style="padding-right: 10px;"/>
+<img align="right" src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" height="200" width="200" style="padding-right: 10px;"/>
 
 
 <p style="font-size: 60px; font-weight: bold;">🚀 Passionate about <strong>Machine Learning</strong> and <strong>Deep Learning</strong></p>
