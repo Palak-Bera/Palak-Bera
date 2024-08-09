@@ -15,6 +15,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Palak-Bera&color=red&style=flat)
 
+&nbsp;
 
     
 # 💻 Build Stuff for:
@@ -25,7 +26,7 @@
   ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4D5382?style=for-the-badge&logoWidth=10)  &nbsp;
   ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-D16014?style=for-the-badge&logoWidth=10)  
 
-
+&nbsp;
 
 # 🔧 Tech I Frequently Use:
 
@@ -36,6 +37,7 @@
 ![Python](https://img.shields.io/badge/Python-939F5C?style=for-the-badge&logo=Python&logoColor=white&logoWidth=10) &nbsp; 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white&logoWidth=10)
 
+&nbsp;
 
 <p style="font-size: 40px; font-weight: bold;">ML Libraries:</p>
 
