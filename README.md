@@ -53,7 +53,7 @@
 
 📧 Email: [palakbera2281@gmail.com](mailto:palakbera2281@gmail.com)
 
-💼 LinkedIn: [Palak-Bera](www.linkedin.com/in/palak-bera)
+💼 LinkedIn: [Palak-Bera](https://www.linkedin.com/in/palak-bera/)
 
 🙆 Portfolio : [Palak-Bera](https://palakbera.netlify.app/)
 
